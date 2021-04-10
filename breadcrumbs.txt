@@ -1,0 +1,4 @@
+react tutorial: https://reactjs.org/tutorial/tutorial.html
+react tic-tak-toe: https://codepen.io/gaearon/pen/aWWQOG
+
+amplify console: https://us-west-2.console.aws.amazon.com/amplify/home?region=us-west-2&code=85b6682d6bfb5e1960c0#/dqiratjava8y5
