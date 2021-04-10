@@ -22,7 +22,7 @@ function App() {
         </a>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://https://main.dqiratjava8y5.amplifyapp.com/tic.js"
           target="_blank"
           rel="noopener noreferrer"
         >
